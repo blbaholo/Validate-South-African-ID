@@ -1,0 +1,9 @@
+*
+
+!setup.py
+!README.md
+!.gitignore
+!tests
+!tests/test_sa_id_number.py
+!validate_id_number
+!validate_id_number/validate_id.py
